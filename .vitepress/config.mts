@@ -9,7 +9,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
-      { text: 'VSC Online', link: 'https://a5961324b.goho.co' }
+      { text: 'VSC Online', link: 'https://a5961324b.goho.co' },
+{text:'DotNet',link:'https://learn.microsoft.com/zh-cn/dotnet/csharp/?WT.mc_id=dotnet-35129-website'}
 
     ],
 
