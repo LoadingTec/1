@@ -7,10 +7,10 @@ hero:
   text: "Keep looking ahead, 走正道 赚慢钱！"
   tagline: 精心打造的个人导航网站
   actions:
-    - theme: mission
+    - theme: brand
       text: 愿景使命
       link: /mission
-    - theme: product
+    - theme: alt
       text: 产品服务
       link: /product
 
