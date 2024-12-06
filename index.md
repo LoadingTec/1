@@ -3,22 +3,22 @@
 layout: home
 
 hero:
-  name: "锣鼎导航"
-  text: "我的导航页，锣鼎，锣鼎科技，锣鼎导航，maxsys"
-  tagline: My great project tagline
+  name: "Roby's Nav"
+  text: "Keep Looooooking Ahead. 走正道 赚慢钱！"
+  tagline: 精心打造的个人导航网站
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 发展理念
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 产品服务
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 定制产品服务
+    details: 为每一位客户配备专属的定制顾问，提供一对一的全程服务。从需求沟通到售后服务，定制顾问将始终与客户保持密切联系，及时响应客户的需求和问题，确保客户在整个定制过程中享受到贴心、专业的服务。
+  - title: C/S 客户端产品
+    details: C/S 客户端可以在本地进行复杂的三维模型构建、工程分析计算、图纸绘制等工作，并通过服务器实现团队协作、数据共享和版本控制。
+  - title: B/S 服务端产品
+    details: 跨平台性、易于部署与维护、成本效益高、信息共享与协作方便。同时在企业内部的协同办公系统中，员工可以实时共享文档、交流信息、协同完成项目任务，提高了团队的工作效率和协作效果。
 ---
