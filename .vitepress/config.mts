@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Roby's Nav",
-  description: "我的导航页，锣鼎，锣鼎科技，锣鼎导航，maxsys",
+  description: "我的公开导航页面",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
