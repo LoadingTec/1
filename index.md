@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Roby's Nav"
-  text: "Keep Looooooking Ahead. 走正道 赚慢钱！"
+  text: "Keep looking ahead, 走正道 赚慢钱！"
   tagline: 精心打造的个人导航网站
   actions:
-    - theme: brand
-      text: 发展理念
-      link: /markdown-examples
-    - theme: alt
+    - theme: mission
+      text: 愿景使命
+      link: /mission
+    - theme: product
       text: 产品服务
-      link: /api-examples
+      link: /product
 
 features:
   - title: 定制产品服务
