@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Roby's Nav"
+  name: "Loading Technology"
   text: "Keep looking ahead, 走正道 赚慢钱！"
   tagline: 精心打造的个人导航网站
   actions:
