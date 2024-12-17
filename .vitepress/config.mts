@@ -16,6 +16,13 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Articles',
+        items: [
+          { text: 'Inspection System', link: '/articles/inspection-system/AOI-AF.md'},
+          { text: 'Yiled Management System', link: '/articles/yms/yms.md' }
+        ]
+      },
+      {
         text: 'Examples',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
