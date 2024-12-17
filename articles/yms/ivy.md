@@ -1,1 +1,2 @@
-# 基于Skyverse的良率管理系统
+# 基于Skyverse @ Klarity 的良率管理系统
+
