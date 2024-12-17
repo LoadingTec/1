@@ -19,7 +19,7 @@ export default defineConfig({
         text: 'Articles',
         items: [
           { text: 'Inspection System', link: '/articles/inspection-system/AOI-AF.md'},
-          { text: 'Yiled Management System', link: '/articles/yms/yms.md' }
+          { text: 'Yiled Management System', link: '/articles/yms/ivy.md' }
         ]
       },
       {
