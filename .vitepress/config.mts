@@ -8,8 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
-      { text: 'VSC Online', link: 'https://vsc.le1e.com' },
+      { text: 'Mission', link: '/mission' },
+      { text: 'My WorkSpace', link: 'https://vsc.le1e.com/?next=/lab%3F&workspace=/home/max/Projects/MyVSC.code-workspace' },
 {text:'DotNet',link:'https://learn.microsoft.com/zh-cn/dotnet/csharp/?WT.mc_id=dotnet-35129-website'}
 
     ],
