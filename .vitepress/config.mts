@@ -36,6 +36,13 @@ export default defineConfig({
         items: [
           { text: 'AIGA', link: '/articles/AIG/' }
         ]
+      },
+      {
+        text: 'Notes',
+        collapsed: false,
+        items: [
+          { text: 'note', link: '/articles/note' }
+        ]
       }
     ],
 
