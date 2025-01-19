@@ -43,7 +43,8 @@ export default defineConfig({
         text: 'Notes',
         collapsed: false,
         items: [
-          { text: 'note', link: '/articles/note' }
+          { text: 'note', link: '/articles/note' },
+          { text: 'System Managenet', link: '/articles/系统管理/论努力和系统管理.md' }
         ]
       }
     ],
