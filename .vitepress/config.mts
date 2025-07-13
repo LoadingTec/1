@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Mission', link: '/mission' },
-      { text: 'My WorkSpace', link: 'https://vscb.le1e.com/?workspace=/mnt/d/Projects/my.code-workspace' },
+      { text: 'My WorkSpace', link: 'https://vsc.xqiye.com/?workspace=/root/myvsc.code-workspace' },
       { text: 'NAS', link: 'https://ainas.le1e.com' },
       { text: 'Gitlab', link: 'https://gitlab.le1e.com' },
 {text:'DotNet',link:'https://learn.microsoft.com/zh-cn/dotnet/csharp/?WT.mc_id=dotnet-35129-website'}
