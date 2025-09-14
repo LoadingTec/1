@@ -1,4 +1,4 @@
-在WPF中通过gRPC实现对HostServer的异步监控，需结合服务端流式通信和WPF异步UI更新机制。以下是分步实现方案：
+## 在WPF中通过gRPC实现对HostServer的异步监控，需结合服务端流式通信和WPF异步UI更新机制。以下是分步实现方案：
 
 一、gRPC接口定义与服务端实现
 定义.proto文件
