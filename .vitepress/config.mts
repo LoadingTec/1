@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Mission', link: '/mission' },
       { text: 'My WorkSpace', link: 'https://vsc.xqiye.com/?workspace=/root/myvsc.code-workspace' },
       { text: 'NAS', link: 'https://ainas.le1e.com' },
+      { text: 'ServerCenter', link: 'https://a5961324b.goho.co' },
       { text: 'Gitlab', link: 'https://gitlab.le1e.com' },
       {text:'DotNet',link:'https://learn.microsoft.com/zh-cn/dotnet/csharp/?WT.mc_id=dotnet-35129-website'}
 
@@ -45,7 +46,6 @@ export default defineConfig({
         items: [
           { text: 'note', link: '/articles/note' },
           { text: 'System Managenet', link: '/articles/系统管理/论努力和系统管理.md' },
-          { text: 'WPF', link: '/articles/软件测试/WPF客户端grpc异步状态反馈设计逻辑.md' },
         ]
       }
     ],
