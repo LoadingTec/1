@@ -37,7 +37,7 @@ export default defineConfig({
         text: 'AIG',
         collapsed: true,
         items: [
-          { text: 'AIGA', link: '/articles/AIG/README.md' }
+          { text: 'AIGA', link: '/articles/AIG' }
         ]
       },
       {
