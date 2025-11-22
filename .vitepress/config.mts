@@ -45,8 +45,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'note', link: '/articles/note' },
-          { text: 'System Managenet', link: '/articles/系统管理/论努力和系统管理.md' },
-          { text: 'WPF', link: '/articles/软件测试/WPF客户端grpc异步状态反馈设计逻辑.md' }
+          { text: 'System Managenet', link: '/articles/系统管理/论努力和系统管理.md' }
         ]
       }
     ],
