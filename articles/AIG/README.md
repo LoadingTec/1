@@ -1,3 +1,9 @@
+# Step by Steps:
+
+- 1. 区分好文件所属分类，例如：articles/AIG
+- 2. 写好该分类下的md文档，例如：articles/AIG/2024-12-19.md
+- 3. 更新配置文件到 ： .vitepress/config.mts
+
 # Markdown Extension Examples
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
