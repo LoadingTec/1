@@ -21,3 +21,4 @@
 ## Tips
 
 maxsyst  robyle bluely has the control author.
+- ssh的方式进行访问更新：2025年11月22日10:59:34 --> WSL:201.51:9090
