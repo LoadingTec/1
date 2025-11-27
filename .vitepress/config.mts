@@ -41,7 +41,7 @@ export default defineConfig({
           { text: 'README', link: '/articles/AIG/README.md' },
           { text: 'MongoDB技术栈分析', link: '/articles/AIG/MongoDB-Tec.md' },
           { text: '自动光学系统会议交流稿', link: '/articles/AIG/自动光学系统会议交流稿.md' },
-          { text: '抬头三位', link: '/articles/AIG/抬头三位/自动光学系统会议交流稿.md' }
+          { text: '抬头三位', link: '/articles/AIG/抬头三位/软件项目经理的定位.md' }
         ]
       },
       {
