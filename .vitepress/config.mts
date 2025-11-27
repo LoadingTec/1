@@ -12,7 +12,7 @@ export default defineConfig({
       { text: 'My WorkSpace', link: 'https://vscb.le1e.com/?workspace=/mnt/d/Projects/wsl-github-gitee.code-workspace' },
       { text: 'NAS', link: 'https://ainas.le1e.com' },
       { text: 'ServerCenter', link: 'https://ako.le1e.com' },
-      { text: 'Gitlab', link: 'https://gitlab.le1e.com' },
+      { text: 'BuildPages', link: 'https://dash.cloudflare.com/767266c91ee25c5af1e2e10c55626f53/pages/view/le1e' },
       {text:'DotNet',link:'https://learn.microsoft.com/zh-cn/dotnet/csharp/?WT.mc_id=dotnet-35129-website'}
 
     ],
