@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "MAXSYS",
-  description: "精心打造的个人导航网站，它犹如一座数字桥梁，将用户与丰富多样的网络资源紧密相连。简洁而直观的界面设计，让用户能够轻松地在各个分类之间穿梭。 --- Manual updated:2025年11月27日13:20:48 +0800",
+  description: "精心打造的个人导航网站，它犹如一座数字桥梁，将用户与丰富多样的网络资源紧密相连。简洁而直观的界面设计，让用户能够轻松地在各个分类之间穿梭。 --- Manual updated:2025年11月27日13:34",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -37,10 +37,10 @@ export default defineConfig({
         text: 'AIG',
         collapsed: true,
         items: [
+          { text: '每天一问', link: '/articles/AIG/每天一问/' },
           { text: 'README', link: '/articles/AIG/README.md' },
           { text: 'MongoDB技术栈分析', link: '/articles/AIG/MongoDB-Tec.md' },
-          { text: '自动光学系统会议交流稿', link: '/articles/AIG/自动光学系统会议交流稿.md' },
-          { text: '每天一问', link: '/articles/AIG/每天一问/' }
+          { text: '自动光学系统会议交流稿', link: '/articles/AIG/自动光学系统会议交流稿.md' }
         ]
       },
       {
