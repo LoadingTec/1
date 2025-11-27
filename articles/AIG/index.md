@@ -2,3 +2,4 @@
  - 良率系统
  - 项目管理
  - 系统负载问题分析 : [Linux Top](articles/AIG/每天一问/2025-11-24.md)
+ - 更新配置文件(config.mts)

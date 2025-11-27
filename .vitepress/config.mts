@@ -57,5 +57,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/robyle' }
     ]
-  }
+  },
+  ignoreDeadLinks: true,
+  lastUpdated: true
 })
