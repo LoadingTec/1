@@ -37,7 +37,7 @@ export default defineConfig({
         text: 'AIG',
         collapsed: true,
         items: [
-          { text: '每天一问', link: '/articles/AIG/每天一问/index.md' },
+          { text: '每天一问', link: '/articles/AIG/index.md' },
           { text: 'README', link: '/articles/AIG/README.md' },
           { text: 'MongoDB技术栈分析', link: '/articles/AIG/MongoDB-Tec.md' },
           { text: '自动光学系统会议交流稿', link: '/articles/AIG/自动光学系统会议交流稿.md' },
