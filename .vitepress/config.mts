@@ -3,13 +3,13 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "MAXSYS",
-  description: "精心打造的个人导航网站，它犹如一座数字桥梁，将用户与丰富多样的网络资源紧密相连。简洁而直观的界面设计，让用户能够轻松地在各个分类之间穿梭。 --- Manual updated:2025年11月27日13:34",
+  description: "精心打造的个人导航网站，它犹如一座数字桥梁，将用户与丰富多样的网络资源紧密相连。简洁而直观的界面设计，让用户能够轻松地在各个分类之间穿梭。 --- Manual updated:2025年11月27日14:15",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Mission', link: '/mission' },
-      { text: 'My WorkSpace', link: 'https://vsc.xqiye.com/?workspace=/root/myvsc.code-workspace' },
+      { text: 'My WorkSpace', link: 'https://vscb.le1e.com/?workspace=/mnt/d/Projects/wsl-github-gitee.code-workspace' },
       { text: 'NAS', link: 'https://ainas.le1e.com' },
       { text: 'ServerCenter', link: 'https://ako.le1e.com' },
       { text: 'Gitlab', link: 'https://gitlab.le1e.com' },
@@ -37,10 +37,11 @@ export default defineConfig({
         text: 'AIG',
         collapsed: true,
         items: [
-          { text: '每天一问', link: '/articles/AIG/每天一问/' },
+          { text: '每天一问', link: '/articles/AIG/每天一问/index.md' },
           { text: 'README', link: '/articles/AIG/README.md' },
           { text: 'MongoDB技术栈分析', link: '/articles/AIG/MongoDB-Tec.md' },
-          { text: '自动光学系统会议交流稿', link: '/articles/AIG/自动光学系统会议交流稿.md' }
+          { text: '自动光学系统会议交流稿', link: '/articles/AIG/自动光学系统会议交流稿.md' },
+          { text: '抬头三位', link: '/articles/AIG/抬头三位/自动光学系统会议交流稿.md' }
         ]
       },
       {
