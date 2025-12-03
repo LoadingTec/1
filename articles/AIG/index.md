@@ -8,3 +8,5 @@
 
     - 【articles/AIG/每天一问/2025-12-03】：https://1.le1e.com/articles/AIG/每天一问/2025-12-03.html
     -  [【主题探讨:混淆矩阵详解】](混淆矩阵\(Confusion Matrix\)详解总结.md)
+
+    - [常用工具链接]  https://www.innotronix.com.cn/?page_id=1766 计算die数量
