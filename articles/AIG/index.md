@@ -6,5 +6,5 @@
 
  - [ ]  更新每日一问的格式模板
 
-    - 【articles/AIG/每天一问/2025-12-03】（https://1.le1e.com/articles/AIG/每天一问/2025-12-03.html）
-    -  [【主题探讨:混淆矩阵详解】](混淆矩阵（Confusion Matrix）详解总结.md)
+    - 【articles/AIG/每天一问/2025-12-03】：https://1.le1e.com/articles/AIG/每天一问/2025-12-03.html
+    -  [【主题探讨:混淆矩阵详解】](混淆矩阵\(Confusion Matrix\)详解总结.md)
