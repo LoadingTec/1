@@ -1,5 +1,7 @@
 # 消息模板（Message Templates）
 
+[最佳实践入口](https://github.com/NLog/NLog/wiki/How-to-use-structured-logging#transform-captured-properties)
+
 - 消息日志模板起到语言中立规范，旨在为结构化日志记录提供一种既对人类友好，又对机器可读的格式。以下是其主要内容的详细总结：
 
 ![message-viewer](message-viewer.png)
