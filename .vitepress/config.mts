@@ -55,8 +55,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
-      copyright: 'Copyright © 2026 <a href="https://https://vscb.le1e.com/?workspace=/mnt/d/Projects/wsl-github-gitee.code-workspace"> maxsys</a>'
+      message: '',
+      copyright: 'Copyright © 2026 <a href="https://https://vscb.le1e.com/?workspace=/mnt/d/Projects/wsl-github-gitee.code-workspace">Contacts:maxsys</a>'
     },
 
     socialLinks: [

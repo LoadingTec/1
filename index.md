@@ -22,3 +22,24 @@ features:
   - title: B/S 服务端产品
     details: 跨平台性、易于部署与维护、成本效益高、信息共享与协作方便。同时在企业内部的协同办公系统中，员工可以实时共享文档、交流信息、协同完成项目任务，提高了团队的工作效率和协作效果。
 ---
+
+<!-- 在你的首页 md 文件末尾添加 -->
+
+<script setup>
+const buildTime = __APP_BUILD_TIME__
+</script>
+
+<div class="custom-build-time">
+  文档更新时间: {{ new Date(buildTime).toLocaleString('zh-CN') }}
+</div>
+
+<style>
+.custom-build-time {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e2e2e3;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+}
+</style>
