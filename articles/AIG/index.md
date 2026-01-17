@@ -11,3 +11,25 @@
     -  [【主题探讨:图像缺陷分析】] https://1.le1e.com/articles/AIG/每天一问/2026-01-06.html
 
     - [常用工具链接]  https://www.innotronix.com.cn/?page_id=1766 计算die数量
+
+
+<!-- 在你的首页 md 文件末尾添加 -->
+
+<script setup>
+const buildTime = __APP_BUILD_TIME__
+</script>
+
+<div class="custom-build-time">
+  文档更新时间: {{ new Date(buildTime).toLocaleString('zh-CN') }}
+</div>
+
+<style>
+.custom-build-time {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e2e2e3;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+}
+</style>
