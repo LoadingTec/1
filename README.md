@@ -48,3 +48,8 @@ apikey-default Unauthenticated
 
 
 ssh -N -o ServerAliveInterval=30 -o ExitOnForwardFailure=yes -L 0.0.0.0:8236:120.77.35.182:3389 root@47.109.130.236
+
+
+有服务器中心
+
+无服务器中心
