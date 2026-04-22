@@ -53,3 +53,6 @@ ssh -N -o ServerAliveInterval=30 -o ExitOnForwardFailure=yes -L 0.0.0.0:8236:120
 有服务器中心
 
 无服务器中心
+
+https://phone.le1e.com/   LXL-PHONE-Nove8
+https://yp.le1e.com/      YJG-PHONE-SumS8
